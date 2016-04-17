@@ -1,0 +1,13 @@
+title: 'Enhanced Sample Neufeld ASN.1 C Compiler'
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+
+safe: true
+lsi: false

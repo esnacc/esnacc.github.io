@@ -1,0 +1,6 @@
+_site
+Gemfile.lock
+.sass-cache
+node_modules
+codekit-config.json
+*~
